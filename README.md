@@ -85,13 +85,6 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 <div align="center">
 
-<a href="https://agritechpro.vercel.app/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChhabraSaksham2006&repo=agri-tech-pro&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-<a href="https://cteldtu.com/">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChhabraSaksham2006&repo=ctel-dtu&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e" />
-</a>
-
 </div>
 
 ### 🌾 [Agri Tech Pro](https://agritechpro.vercel.app/) — *YUVAi Grand Finalist*
@@ -171,7 +164,7 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=ChhabraSaksham2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ChhabraSaksham2006&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -199,7 +192,7 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 </div>
 
-> 💡 *To enable the snake animation, add [this GitHub Action workflow](https://github.com/Platane/snk#github-action) to your profile repository.*
+
 
 ---
 
