@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Saksham%20Chhabra&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=CS%20Undergrad%20%40%20DTU%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20CGPA%209.50&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Saksham%20Chhabra&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=CS%20Undergrad%20@%20DTU%20·%20Backend%20%26%20Distributed%20Systems%20·%20CGPA%209.50&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+systems+one+commit+at+a+time;%F0%9F%8E%AF+JEE+Main+99.82+percentile+%7C+AIR+2949;%F0%9F%A7%A0+Full-Stack+%C2%B7+ML+Pipelines+%C2%B7+System+Design" alt="Typing SVG" /></a>
@@ -151,10 +152,10 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ChhabraSaksham2006&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ChhabraSaksham2006&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e&include_all_commits=true&count_private=true&show_icons=true" />
 <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=ChhabraSaksham2006&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChhabraSaksham2006&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ChhabraSaksham2006&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&langs_count=8" />
 
 </div>
 
@@ -164,7 +165,7 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChhabraSaksham2006&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-rust.vercel.app/?username=ChhabraSaksham2006&theme=onestar&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
