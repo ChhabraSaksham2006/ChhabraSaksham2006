@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Saksham%20Chhabra&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=CS%20Undergrad%20%40%20DTU%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20CGPA%209.50&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+```
+███████╗ █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ███╗   ███╗
+██╔════╝██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗████╗ ████║
+███████╗███████║█████╔╝ ███████╗███████║███████║██╔████╔██║
+╚════██║██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║██║╚██╔╝██║
+███████║██║  ██║██║  ██╗███████║██║  ██║██║  ██║██║ ╚═╝ ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
+
+### `CS Undergrad @ DTU · Backend & Distributed Systems · CGPA 9.50`
 
 
 <!-- TYPING SVG -->
