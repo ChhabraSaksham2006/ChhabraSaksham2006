@@ -13,7 +13,7 @@
 
 
 <!-- TYPING SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+systems+one+commit+at+a+time;%F0%9F%8E%AF+JEE+Main+99.82+percentile+%7C+AIR+2949;%F0%9F%A7%A0+Full-Stack+%C2%B7+ML+Pipelines+%C2%B7+System+Design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+systems+one+commit+at+a+time;%F0%9F%8E%AF+JEE+Main+99.82+percentile+%7C+AIR+2949;%F0%9F%A7%A0+Full-Stack+%C2%B7+Backend+Engineering+%C2%B7+System+Design" alt="Typing SVG" /></a>
 
 <!-- SOCIAL BADGES -->
 <br/>
@@ -38,11 +38,12 @@
 {
   "name": "Saksham Chhabra",
   "institution": "Delhi Technological University (DTU)",
-  "year": 2,
+  "degree": "B.Tech Computer Science Engineering",
+  "batch": "2024 – 2028",
   "cgpa": 9.50,
   "focus": ["Backend Engineering", "Distributed Systems", "Full-Stack Development"],
-  "currently_building": ["MERN apps", "ML pipelines with FastAPI + XGBoost"],
-  "currently_learning": ["System Design", "Scalable Architectures", "Advanced Deployment"],
+  "currently_building": ["Production-grade MERN apps", "Scalable backend systems"],
+  "currently_learning": ["System Design", "Scalable Architectures", "Large-Scale Distributed Systems"],
   "roles": [
     "General Secretary — Neural AI DTU",
     "Vice President — APJ Hostel DTU",
@@ -55,16 +56,16 @@
 <img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 🔭 Currently Working On
-Building full-stack and ML/AI applications (MERN, FastAPI, XGBoost) and improving DevOps/CI workflows.
+Building production-grade full-stack systems using React, Node.js, and MongoDB with scalable backend architectures.
 
 ### 🤝 Looking to Collaborate On
 Open source web apps, data-driven tools, hackathons, and community tech initiatives.
 
 ### 🧠 Currently Learning
-Advanced deployment, scalable architectures, system design, and new ML techniques.
+System Design, Scalable Architectures, and Large-Scale Distributed Systems.
 
 ### 💬 Ask Me About
-Full-stack development, ML pipelines, hackathon strategies, building products from scratch.
+Full-stack development, REST APIs, hackathon strategies, or building products from scratch.
 
 ### ⚡ Fun Fact
 I consistently top regional math/puzzle contests and love converting complex ideas into neat code.
@@ -96,15 +97,20 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 </div>
 
-### 🌾 [Agri Tech Pro](https://agritechpro.vercel.app/) — *YUVAi Grand Finalist*
+### 🌾 [Agri Tech Pro](https://agritechpro.vercel.app/) — *YUVAi Grand Finalist | Smart India Hackathon*
 > Full-stack agricultural analytics platform · React · Node.js · MongoDB · Flask  
-> Real-time crop insights · Presented at India AI Impact Summit · [📺 Demo Video](https://www.youtube.com/watch?v=1b_MhKzfWcc)
+> Real-time crop insights & data-driven recommendations · YUVAi Top 20 / 2500+ teams  
+> Presented at Bharat Mandapam during India AI Impact Summit · SIH National Evaluation Round  
+> [📺 Demo Video](https://www.youtube.com/watch?v=1b_MhKzfWcc)
 
-### 🏫 [CTEL DTU Official Website](https://cteldtu.com/) — *Production*
-> Official DTU lab website · Deployed & maintained in production · Used by students & faculty
+### 🏫 [CTEL DTU Official Website](https://cteldtu.com/) — *Production Web Application*
+> Official CTEL DTU website with responsive UI  
+> Deployed & maintained in production · Used by students & faculty
 
 ### 💳 [Nova Gig Score](https://nova-gig-score.vercel.app/) — *Credit Scoring Platform*
-> Modular RESTful backend · Credit scoring workflows · Top 100 in GrabHack 2025 · [📺 Demo Video](https://www.youtube.com/watch?v=cBY1XDhjrOE)
+> Modular RESTful backend · Structured data models & API-driven architecture  
+> Credit scoring workflows · Top 100 in GrabHack 2025  
+> [📺 Demo Video](https://www.youtube.com/watch?v=cBY1XDhjrOE)
 
 ---
 
@@ -130,7 +136,7 @@ I consistently top regional math/puzzle contests and love converting complex ide
 ### Backend & Databases
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -150,7 +156,7 @@ I consistently top regional math/puzzle contests and love converting complex ide
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Core CS
-`DSA` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks` · `System Design`
+`DSA` · `OOP` · `Computer Networks` · `Theory of Computation` · `DBMS` · `OS` · `System Design` · `Scalability`
 
 </div>
 
@@ -211,9 +217,9 @@ I consistently top regional math/puzzle contests and love converting complex ide
 
 |  | Opportunity |
 |:---:|---|
-| 🤝 | Collaborating on **open source web apps** & data-driven tools |
-| 🛠️ | **Hackathons** — especially product + AI tracks |
-| 💬 | Talking **backend architecture**, system design, or ML pipelines |
+| 🤝 | Collaborating on **open source web apps** & backend projects |
+| 🛠️ | **Hackathons** — especially product + backend tracks |
+| 💬 | Talking **backend architecture**, system design, or scalable systems |
 | 📬 | **Internship opportunities** in backend / full-stack engineering |
 
 </div>
