@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Saksham%20Chhabra&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=CS%20Undergrad%20@%20DTU%20·%20Backend%20%26%20Distributed%20Systems%20·%20CGPA%209.50&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Saksham%20Chhabra&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=CS%20Undergrad%20%40%20DTU%20%C2%B7%20Backend%20%26%20Distributed%20Systems%20%C2%B7%20CGPA%209.50&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%F0%9F%9A%80+Building+scalable+systems+one+commit+at+a+time;%F0%9F%8E%AF+JEE+Main+99.82+percentile+%7C+AIR+2949;%F0%9F%A7%A0+Full-Stack+%C2%B7+ML+Pipelines+%C2%B7+System+Design" alt="Typing SVG" /></a>
